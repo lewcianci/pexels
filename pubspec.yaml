@@ -1,4 +1,4 @@
-name: pexels-null-safety
+name: pexels_null_safety
 version: 0.1.2
 description: Unofficial wrapper of Pexels REST API for the Dart Language.
 author: Kennedy Tochukwu Ekeoha <ekeohak@gmail.com>
