@@ -14,7 +14,7 @@ void main() async {
 
   var result = await client.searchPhotos("tree");
   var photo = result[0];
-  stdout.write(photo.sources['original'].link);
+  stdout.write(photo.sources['original']!.link);
 
   var result2 = await client.searchVideos("balloon");
   var video = result2[0];
